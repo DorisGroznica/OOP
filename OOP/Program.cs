@@ -15,8 +15,12 @@ GoodProgram.Main();
 
 OOP.Polymorphism.BadExample.BadProgram.Main();
 OOP.Polymorphism.GoodExample.GoodProgram.Main();
+OOP.Polymorphism.MethodOverloading.Main();
+OOP.Polymorphism.OperatorOverloading.Main();
 
 OOP.Coupling.BadExample.BadProgram.Main();
 OOP.Coupling.GoodExample.GoodProgram.Main();
 
 OOP.Composition.CarExample.Main();
+
+OOP.Aggregation.Aggregation.Main();
